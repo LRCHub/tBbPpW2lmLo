@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Hello",
+  "base_artist": "パソコン音楽クラブ",
+  "createdAt": "2026-01-13T15:49:53.234658Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Easy as Hello",
+      "artist": "Sunny Sweeney",
+      "has_synced": true,
+      "path": "select/01_Easy_as_Hello_Sunny_Sweeney.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Heaven Says Hello",
+      "artist": "Sonny James",
+      "has_synced": false,
+      "path": "select/02_Heaven_Says_Hello_Sonny_James.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hello Darlin'",
+      "artist": "Conway Twitty",
+      "has_synced": false,
+      "path": "select/03_Hello_Darlin'_Conway_Twitty.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hello Darlin' - Single Version",
+      "artist": "Conway Twitty",
+      "has_synced": false,
+      "path": "select/04_Hello_Darlin'_-_Single_Version_Conway_Twitty.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hello Darlin' (Single Version)",
+      "artist": "Conway Twitty",
+      "has_synced": false,
+      "path": "select/05_Hello_Darlin'_(Single_Version)_Conway_Twitty.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hello Love",
+      "artist": "Hank Snow",
+      "has_synced": true,
+      "path": "select/06_Hello_Love_Hank_Snow.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hello Love (Buddha Remastered - February 5, 2001)",
+      "artist": "Hank Snow",
+      "has_synced": true,
+      "path": "select/07_Hello_Love_(Buddha_Remastered_-_February_5,_2001)_Hank_Snow.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hello Mary Lou",
+      "artist": "The Statler Brothers",
+      "has_synced": true,
+      "path": "select/08_Hello_Mary_Lou_The_Statler_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hello Mr. Heartache",
+      "artist": "The Chicks",
+      "has_synced": true,
+      "path": "select/09_Hello_Mr._Heartache_The_Chicks.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hello Mr. Heartache (Album Version)",
+      "artist": "The Chicks",
+      "has_synced": true,
+      "path": "select/10_Hello_Mr._Heartache_(Album_Version)_The_Chicks.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hello Trouble",
+      "artist": "Desert Rose Band",
+      "has_synced": true,
+      "path": "select/11_Hello_Trouble_Desert_Rose_Band.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hello Vietnam",
+      "artist": "Johnny Wright",
+      "has_synced": true,
+      "path": "select/12_Hello_Vietnam_Johnny_Wright.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hello Vietnam (Single Version)",
+      "artist": "Johnny Wright",
+      "has_synced": true,
+      "path": "select/13_Hello_Vietnam_(Single_Version)_Johnny_Wright.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hello Walls",
+      "artist": "Faron Young",
+      "has_synced": false,
+      "path": "select/14_Hello_Walls_Faron_Young.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Hello World",
+      "artist": "Alan Walker feat. Torine",
+      "has_synced": true,
+      "path": "select/15_Hello_World_Alan_Walker_feat._Torine.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Hello World",
+      "artist": "Alan Walker",
+      "has_synced": true,
+      "path": "select/16_Hello_World_Alan_Walker.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hello feat. Cwondo",
+      "artist": "パソコン音楽クラブ",
+      "has_synced": false,
+      "path": "select/pl_01_Hello_feat._Cwondo_パソコン音楽クラブ.txt"
+    }
+  ]
+}
